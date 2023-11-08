@@ -10,7 +10,7 @@
   />
 </p>
 
-- 🌱 I’m currently Studing **Information Technolgy**
+- 🌱 I’m currently Studing **Information Technology**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
