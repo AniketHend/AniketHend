@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket</h1>
 <h3 align="center">A passionate Competitive Programmer from India</h3>
 
-<img align="right" alt="coding" width="400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBO1xlxabViT1mhXyYs6kWEiVcE4fahVmhui7I6mMzIzyUoRtIvVB3RPPTwl2V6GDuv1g&usqp=CAU">
+<img align="right" alt="coding" width="400px" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBO1xlxabViT1mhXyYs6kWEiVcE4fahVmhui7I6mMzIzyUoRtIvVB3RPPTwl2V6GDuv1g&usqp=CAU](https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)">
 
 <p align="left">
   <img
