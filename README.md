@@ -30,6 +30,9 @@
       height="30"
       width="40"
   /></a>
+</p>
+<h3 align="left">My Competitive Programming Handles:</h3>
+<p align="left">
     <a href="https://codeforces.com/profile/anikethend1234" target="blank"
     ><img
       align="center"
