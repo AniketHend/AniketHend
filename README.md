@@ -12,108 +12,18 @@
 
 - 🌱 I’m currently Studing **Information Technology**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/@anikethend" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="@anikethend"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.linkedin.com/in/aniket-hend-15748a22a" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="aniket hend"
-      height="30"
-      width="40"
-  /></a>
-</p>
-<h3 align="left">My Competitive Programming Handles:</h3>
-<p align="left">
-    <a href="https://codeforces.com/profile/anikethend1234" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
-      alt="anikethend1234"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.leetcode.com/anikethend1234" target="blank"
-    ><img
-      align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="ap1907"
-      height="30"
-      width="40"
-  /></a>
-  <a href="https://www.codechef.com/users/aphend" target="blank"
-    ><img
-      align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
-      alt="aphend"
-      height="30"
-      width="40"
-  /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aniket-hend) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aniket-hend-15748a22a) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/AniketHend) 
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=anikethend&show_icons=true&locale=en&layout=compact"
-    alt="anikethend"
-  />
-</p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AniketHend&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AniketHend&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketHend&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=anikethend&show_icons=true&locale=en"
-    alt="anikethend"
-  />
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=AniketHend&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=anikethend&"
-    alt="anikethend"
-  />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
