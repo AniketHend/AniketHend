@@ -1,12 +1,12 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Aniket" />
+  <img src="https://github.com/AniketHend/AniketHend/blob/main/Aniket.svg" alt="Aniket" />
 </h1>
 
 
 <h3 align="center">A passionate Competitive Programmer from India 🇮🇳</h3>
 
-{/*<img align="right" alt="coding" width="400px" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">*/}
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<img align="right" alt="coding" width="400px" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+
 
 
 <p align="left">
