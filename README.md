@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aniket</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Aniket" />
+</h1>
+
+
 <h3 align="center">A passionate Competitive Programmer from India 🇮🇳</h3>
 
 <img align="right" alt="coding" width="400px" src="https://media0.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
