@@ -33,7 +33,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/AniketHend/AniketHend/blob/main/snake.svg" alt="Snake animation" />
+<img src="https://github.com/AniketHend/AniketHend/blob/main/snake.svg" alt="Snake animation" />
 
 ###
 ---
