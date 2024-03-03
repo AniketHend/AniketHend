@@ -28,6 +28,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AniketHend&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AniketHend&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/AniketHend/AniketHend/snake.svg" alt="Snake animation" />
+
+###
 ---
 <!--[![](https://visitcount.itsvg.in/api?id=AniketHend&icon=0&color=0)](https://visitcount.itsvg.in)-->
 
